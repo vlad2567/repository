@@ -1,0 +1,1 @@
+$('div').attr('style', 'width: 150px; height: 150px; background: red')
